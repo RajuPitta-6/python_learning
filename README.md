@@ -20,7 +20,7 @@ Each Day includes structured programs, starting from basic concepts and progress
 ### 📂 Files:
 ```bash
 python_learning/
-└── week1/
+└── Day1/
     ├── 01_hello_world.py
     ├── 02_variables.py
     ├── 03_input_output.py
