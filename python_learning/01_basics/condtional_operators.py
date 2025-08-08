@@ -13,3 +13,7 @@ print(a > b)
 print(a != b)
 print(a >= b)
 print(a <= b)
+
+'''
+give output as bool data type 
+True or False'''
