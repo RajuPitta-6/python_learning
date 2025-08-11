@@ -37,6 +37,16 @@ Each day includes structured programs, starting from basic concepts and progress
 - Iterating through lists
 - Nested lists
 
+### ✅ Day 5 – Tuples in Python
+📁 Folder: `python_learning/data_structures/tuple/`
+- Creating and accessing tuples
+- Tuple indexing & slicing
+- Immutable nature of tuples
+- Tuple packing & unpacking
+- Iterating through tuples
+- Nested tuples
+- Built-in functions (`len()`, `count()`, `index()`)
+
 ---
 
 ## 📂 Repository Structure
