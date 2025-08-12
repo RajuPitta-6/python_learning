@@ -47,6 +47,9 @@ Each day includes structured programs, starting from basic concepts and progress
 - Nested tuples
 - Built-in functions (`len()`, `count()`, `index()`)
 
+### ✅ Day 6 – coding exercise-1
+- solving tasks in list (Data Structures)
+-  Beginner Level and  Intermediate Level
 ---
 
 ## 📂 Repository Structure
