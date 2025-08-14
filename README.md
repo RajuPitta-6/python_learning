@@ -52,4 +52,20 @@ Each day includes structured programs, starting from basic concepts and progress
 -  Beginner Level and  Intermediate Level
 ---
 
+### ✅ Day 7 – sets in Python & coding exercise -2
+
+📁 python_learning/data_structures/set/
+
+Create & access sets
+Add/remove elements (add, update, remove, discard, pop)
+Set operations (union, intersection, difference, symmetric_difference)
+Membership check (in)
+Iterate through sets
+Remove duplicates via set
+Frozenset basics
+And
+- solving tasks in sets (Data Structures)
+-  Beginner, Intermediate and Advance Level
+
+
 ## 📂 Repository Structure
