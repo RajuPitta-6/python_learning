@@ -54,18 +54,26 @@ Each day includes structured programs, starting from basic concepts and progress
 
 ### ✅ Day 7 – sets in Python & coding exercise -2
 
-📁 python_learning/data_structures/set/
+📁 python_learning/data_structures/set/`
 
-Create & access sets
-Add/remove elements (add, update, remove, discard, pop)
-Set operations (union, intersection, difference, symmetric_difference)
-Membership check (in)
-Iterate through sets
-Remove duplicates via set
-Frozenset basics
-And
+- Create & access sets
+- Add/remove elements (add, update, remove, discard, pop)
+- Set operations (union, intersection, difference, symmetric_difference)
+- Membership check (in)
+- Iterate through sets
+- Remove duplicates via set
+- Frozenset basics
+- And
 - solving tasks in sets (Data Structures)
 -  Beginner, Intermediate and Advance Level_
 
+### ✅ Day 8 – Dict in Python & coding exercise -3
+📁 Folder: python_learning/data_structures/dict/`
 
+- Creating and accessing dictionaries
+- Dictionary keys & values
+- Adding, updating, and removing key-value pairs
+- Dictionary methods (keys(), values(), items(), get(), pop(), etc.)
+- Iterating through dictionaries
+- Nested dictionaries
 ## 📂 Repository Structure
