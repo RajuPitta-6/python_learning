@@ -67,8 +67,10 @@ Each day includes structured programs, starting from basic concepts and progress
 - solving tasks in sets (Data Structures)
 -  Beginner, Intermediate and Advance Level_
 
-### ✅ Day 8 – Dict in Python & coding exercise -3
+### ✅ Day 8 – Dict in Python , random module() and project -1
 📁 Folder: python_learning/data_structures/dict/`
+📁 Folder: python_learning/Modules_in_python/random_.py/`
+📁 Folder: python_learning/python_projects/project_#1_Number_guessing_game.py/`
 
 - Creating and accessing dictionaries
 - Dictionary keys & values
@@ -76,4 +78,10 @@ Each day includes structured programs, starting from basic concepts and progress
 - Dictionary methods (keys(), values(), items(), get(), pop(), etc.)
 - Iterating through dictionaries
 - Nested dictionaries
+-
+- _ learn some basic random functions
+- random(),	uniform(a,b), randint(a,b),	randrange(), choice(),	choices(), shuffle()
+- 
+- Number guessing game as a first project
+
 ## 📂 Repository Structure
