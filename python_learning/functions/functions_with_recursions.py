@@ -39,3 +39,4 @@ def sum_natural(n):
 print("\n",sum_natural(10))
 # output : 55
 print(sum_natural(100))
+# output : 5050

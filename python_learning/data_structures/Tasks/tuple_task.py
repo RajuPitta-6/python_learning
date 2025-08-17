@@ -62,6 +62,7 @@ tup = (1, 'Raz') * 3
 print(tup)
 '''
 output :
+(1, 'Raz', 1, 'Raz', 1, 'Raz')
 '''
 # Tuple unpacking.
 person = ('RAzu',20,'vizag')
@@ -69,6 +70,7 @@ name, age, city = person
 print(name, age, city)
 '''
 output :
+RAzu 20 vizag
 '''
 # swap two numbers using tuple unpacking.
 a, b = 5, 10
@@ -76,6 +78,7 @@ a, b = b, a
 print(a, b)
 '''
 output :
+10 5
 '''
 #Advance Level
 #NEsted tuple access
@@ -83,14 +86,17 @@ Nested = (1, (2, 3),(4, (5, 6)))
 print(Nested[2][1][0])
 '''
 output :
+5
 '''
 #convert list to tuple and back to list after modification 
 my_list = [10, 20, 30, 44]
 my_tuple = tuple(my_list)
 print(my_tuple)
 my_list2 = list(my_tuple)
-my_list.append(55)
+my_list2.append(55)
 print(tuple(my_list2))
 '''
 output :
+(10, 20, 30, 44)
+(10, 20, 30, 44, 55)
 '''
