@@ -24,11 +24,11 @@ m.repiar(b) # Bike engine started
 
 class creditcard:
     def pay(self, amount):
-        print(f"paid {amount} using credit card!")
+        print(f"paid {amount} using credit card !")
 
 class upi:
     def pay(self, amount):
-        print(f"paid {amount} using upi!")
+        print(f"paid {amount} using upi !")
 
 
 class payment_method:
